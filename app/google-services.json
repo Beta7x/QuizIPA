@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704538232478",
+    "project_id": "ttg-tkpp-ipa",
+    "storage_bucket": "ttg-tkpp-ipa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704538232478:android:65740a91a36b0a2243dd8f",
+        "android_client_info": {
+          "package_name": "com.example.quizme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704538232478-fppc7s5l9h5hj0lc2vefl66vr24nt4eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK7011iPt8ht1N0vldtt6wCWaoY5VAQFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704538232478-fppc7s5l9h5hj0lc2vefl66vr24nt4eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
